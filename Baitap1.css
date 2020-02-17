@@ -1,0 +1,164 @@
+.Homepage{	
+	background: #8a8a8a;
+}
+.In-homepage{
+	width: 1170px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+}
+.Item-in-homepage{
+	text-align: center;
+}
+.cl-text{
+	color: #383838;
+}
+.font-sz-18{
+	font-size: 18px;
+}
+.font-sz-64{
+	font-size: 64px;
+}
+.border-text{
+	background-color: #333333;
+	border-radius: 5px;
+}
+.text-color{
+	color: #e4e4e4 !important;
+}
+.Start-doing{
+	display: flex;
+	justify-content: space-between;
+}
+.hr{
+	width: 131px;
+}
+.hr-1{
+	background: #dedede;
+	height: 1px;
+}
+.hr-2{
+	background: #dedede;
+	height: 1px;
+	margin-top: 4px;
+}
+.shape{
+	margin-left: 6px;
+	position: relative;
+}
+.shape1{
+	position: absolute;
+	left: 10px;
+	top: 2px;
+}
+.mg-top-5{
+	margin-top: -5px;
+}
+.mg-top-50{
+	margin-top: 50px;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.header{
+	height: 100px;
+	display: flex;
+	align-items: center;
+	border-bottom: 2px solid;
+	border-color: #dedede;
+}
+.left-header{
+	width: 470px;
+}
+.right-header ul{
+	display: flex;
+	width: 700px;
+	justify-content: space-between;
+	list-style: none;	
+}
+.right-header ul li a{
+	color: #606060;
+	text-decoration: none;
+	font-weight: bold;
+}
+.PORTFOLIO-color{
+	background: #00a99d;
+	height: 40px;
+	margin-top: -10px;
+	display: flex;
+	align-items: center;
+	border-radius: 5px;
+}
+.title-wwo{
+	display: flex;
+	justify-content: space-between;
+	width: 800px;
+	margin: 0 auto;
+}
+.What-we-offer{
+	text-align: center;
+}
+.text-cl-offer{
+	color: #b8b8b8;
+}
+.mg-top-20{
+	margin-top: 20px;
+}
+.icon-Category{
+	height: 100px;
+	width: 100px;
+	background: #383838;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 138px;
+}
+.Category-wwo{
+	display: flex;
+	justify-content: space-between;
+}
+.font-text{
+	font-family: inherit;
+	color: #606060;
+	font-size: 20px;
+}
+.Read-more{
+	border: 2px solid;
+	border-color: #dedede;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	padding-top: 15px;
+	margin-top: 20px;
+	color: #8a8a8a;
+	border-radius: 9px;
+	margin-left: 138px;
+}
+.amazing{
+	background: #383838;
+}
+.title-amazing{
+	display: flex;
+	justify-content: space-between;
+	width: 350px;
+	margin: 0 auto;
+}
+.mg-left-10{
+	margin-left: 10px;
+}
+.text-center{
+	text-align: center;
+}
+.amazing-content{
+	display: flex;
+}
+.amazing-left{
+	margin-left: 10px;
+}
+.amazing-left-first{
+	display: flex;
+	max-width: 350px;
+}
+
